@@ -2,6 +2,7 @@ import React from "react";
 import Bio from "../Bio";
 import Links from "../Links";
 import Skills from "../Skills";
+import Portfolio from "../Portfolio";
 import "./style.css";
 
 function Wrapper(props) {
@@ -10,6 +11,7 @@ function Wrapper(props) {
       <Bio />
       <Links />
       <Skills />
+      <Portfolio />
     </main>
   );
 }
