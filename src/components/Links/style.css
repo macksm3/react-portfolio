@@ -1,0 +1,10 @@
+.resourceLinks {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.resource-text {
+  background: rgb(29, 136, 224);
+  color: white;
+}

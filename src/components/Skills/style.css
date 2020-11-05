@@ -1,12 +1,6 @@
-.bio-image {
-  float: left;
-  height: 200px;
-  margin-right: 20px;
-}
-
-.aboutme .container {
+.skills .container {
   margin-top: 40px;
-  background-color: bisque;
+  background-color: skyblue;
   border: 2px solid midnightblue;
 }
 
