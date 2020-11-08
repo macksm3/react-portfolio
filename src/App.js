@@ -1,4 +1,7 @@
 import React from "react";
+import { BrowserRouter as Router, Route, generatePath } from "react-router-dom";
+import About from "./pages/About";
+import Projects from "./pages/Projects";
 import Wrapper from "./components/Wrapper";
 import Footer from "./components/Footer";
 
