@@ -1,0 +1,16 @@
+.navbar-brand {
+  padding: 20px;
+  /* margin-left: -20px; */
+  font-size: 36px;
+  background: rgb(29, 136, 224);
+  color: white;
+}
+.nav-tabs {
+  font-size: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.active {
+  background-color: rgb(29, 136, 224) !important;
+  color: white !important;
+}
