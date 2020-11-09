@@ -13,6 +13,7 @@ function App() {
       <div className="App">
         <Navbar />
         <Switch>
+          {/* <Route path={process.env.PUBLIC_URL + '/'} /> */}
           <Route exact path="/react-portfolio/" component={About} />
           <Route exact path="/about" component={About} />
           <Route exact path="/projects" component={Projects} />
