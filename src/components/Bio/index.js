@@ -1,4 +1,5 @@
 import React from "react";
+import Selfie from "../../assets/img/selfie.png";
 import "./style.css";
 
 function Bio(){
@@ -12,7 +13,7 @@ function Bio(){
         </div>
         <div className="row">
           <article className="col-12">
-            <img className="bio-image" src="react-portfolio/public/assets/img/close up selfie.png" alt="M3 selfie" />
+            <img className="bio-image" src={Selfie} alt="M3 portrait" />
             <p>It all started with music in high school. As the base player in a band, I also endeavored to take care of the tech
               stuff, like sound and lights. I designed and built a road worthy light show because, you know, every band needs
               lights to play on stage. From there I went on to building speaker systems, installing car audio, recording

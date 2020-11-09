@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../../assets/pdf/resume.pdf";
 import "./style.css";
 
 function Links(){
@@ -8,7 +9,7 @@ function Links(){
         <div className="row resourceLinks">
           <div className="col-2"></div>
           <div className="col-2">
-            <a href="assets/pdf/M3 resume BCS.pdf" target="_blank" rel='noreferrer noopener' title="Download Resume"><i className="far fa-file fa-4x"></i></a>
+            <a href={Resume} target="_blank" rel='noreferrer noopener' title="Download Resume"><i className="far fa-file fa-4x"></i></a>
             <h5 className="resource-text">Download my Resume</h5>
           </div>
           <div className="col-2">
