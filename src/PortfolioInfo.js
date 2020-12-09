@@ -1,4 +1,5 @@
 import TeamBuilderScreenShot from "./assets/img/TeamBuilderScreenShot.png";
+import SafeSpaceScreenShot from "./assets/img/SafeSpaceScreenShot.png";
 import PicturesFromSpaceScreenShot from "./assets/img/PicturesFromSpaceScreenShot.png";
 import ScreenShotBuildABurger from "./assets/img/ScreenShotBuild-a-burger.png";
 import ScreenShotEmployeeSummary from "./assets/img/ScreenShotEmployeeSummary.png";
@@ -8,6 +9,13 @@ import PasswordGeneratorScreenShot from "./assets/img/PasswordGeneratorScreenSho
 
 
 const portfolioInfo = [
+  {
+    name: "Safe Space",
+    screenShot: SafeSpaceScreenShot,
+    description: "A collaborative project in which we created a resource database and community website for LGBTQ community.",
+    repository: "https://github.com/macksm3/safe-space",
+    liveLink: "https://safe-space-ne.herokuapp.com/",
+  },
   {
     name: "Team Builder",
     screenShot: TeamBuilderScreenShot,
