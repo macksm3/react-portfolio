@@ -2,9 +2,9 @@ import TeamBuilderScreenShot from "./assets/img/TeamBuilderScreenShot.png";
 import SafeSpaceScreenShot from "./assets/img/SafeSpaceScreenShot.png";
 import PicturesFromSpaceScreenShot from "./assets/img/PicturesFromSpaceScreenShot.png";
 import ScreenShotBuildABurger from "./assets/img/ScreenShotBuild-a-burger.png";
-import ScreenShotEmployeeSummary from "./assets/img/ScreenShotEmployeeSummary.png";
 import homeSmartsScreenShot from "./assets/img/homeSmartsScreenShot.png";
 import WorkDaySchedulerScreenShot from "./assets/img/WorkDaySchedulerScreenShot.png";
+import ScreenShotEmployeeSummary from "./assets/img/ScreenShotEmployeeSummary.png";
 import PasswordGeneratorScreenShot from "./assets/img/PasswordGeneratorScreenShot.png";
 
 
@@ -38,13 +38,6 @@ const portfolioInfo = [
     liveLink: "https://rocky-wave-35281.herokuapp.com/",
   },
   {
-    name: "Employee Summary",
-    screenShot: ScreenShotEmployeeSummary,
-    description: "CLI app that will build a web page.",
-    repository: "https://github.com/macksm3/Employee-Summary",
-    liveLink: "https://youtu.be/6qKEZ5-j8N4",
-  },
-  {
     name: "homeSmarts / M3 Consulting",
     screenShot: homeSmartsScreenShot,
     description: "homesmarts.biz website hosted on Daily Razor, enhanced version on github.",
@@ -57,6 +50,13 @@ const portfolioInfo = [
     description: "Actively edit activities for each hour of the work day using local storage.",
     repository: "https://github.com/macksm3/Work-Day-Scheduler",
     liveLink: "https://macksm3.github.io/Work-Day-Scheduler/",
+  },
+  {
+    name: "Employee Summary",
+    screenShot: ScreenShotEmployeeSummary,
+    description: "CLI app that will build a web page.",
+    repository: "https://github.com/macksm3/Employee-Summary",
+    liveLink: "https://youtu.be/6qKEZ5-j8N4",
   },
   {
     name: "Password Generator",
