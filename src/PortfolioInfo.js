@@ -10,18 +10,18 @@ import PasswordGeneratorScreenShot from "./assets/img/PasswordGeneratorScreenSho
 
 const portfolioInfo = [
   {
-    name: "Safe Space",
-    screenShot: SafeSpaceScreenShot,
-    description: "A collaborative project in which we created a resource database and community website for LGBTQ community.",
-    repository: "https://github.com/macksm3/safe-space",
-    liveLink: "https://safe-space-ne.herokuapp.com/",
-  },
-  {
     name: "Team Builder",
     screenShot: TeamBuilderScreenShot,
     description: "A collaborative project in which we created a team-building app for building comradery in a remote workforce.",
     repository: "https://github.com/macksm3/team-builder",
     liveLink: "https://the-team-builder.herokuapp.com/",
+  },
+  {
+    name: "Safe Space",
+    screenShot: SafeSpaceScreenShot,
+    description: "A collaborative project in which we created a resource database and community website for LGBTQ community.",
+    repository: "https://github.com/macksm3/safe-space",
+    liveLink: "https://safe-space-ne.herokuapp.com/",
   },
   {
     name: "Pictures from Space",
