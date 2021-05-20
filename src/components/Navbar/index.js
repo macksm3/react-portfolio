@@ -15,11 +15,7 @@ function Navbar() {
           <li className="nav-item">
             <NavLink
               to="/about"
-              className={
-                window.location.pathname === "/" || window.location.pathname === "/about"
-                ? "nav-link active"
-                : "nav-link"
-              }
+              className={window.location.pathname === "/about" ? "nav-link active" : "nav-link"}
               >
               About
             </NavLink>
