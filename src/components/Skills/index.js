@@ -23,7 +23,7 @@ function Skills(){
               <li>Computer network and WiFi technology</li>
               <li>Audio/Video systems and AV over IP</li>
               <li>Home Theater design</li>
-              <li>Video survailence system design</li>
+              <li>Video surveillance system design</li>
               <li>Mobile Electronics/Car Stereo</li>
               <li>Automotive Pinstripping</li>
               <li>Professional Photography</li>
